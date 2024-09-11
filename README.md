@@ -3,23 +3,24 @@
 ### Technical Skills 
 
 #### Programming: 
-
 - Advanced: Python, Java, C++, NoSQL, R
 - Intermediate: JavaScript, PHP, SQL
   
 #### Software: 
-
 - Advanced: Ableton Live, After Effects, Figma, Quarto, Thunkable, Jupyter, QTCreator, Microsoft Office
-- Intermediate: Metabase, MaxMSP,InDesign, DavinciResolve, ProTools
+- Intermediate: Metabase, MaxMSP, InDesign, DavinciResolve, ProTools
 
 ### Education
 
-- Bachelor of Science IT | University of Applied Science Lucerne (HSLU)
+- Bachelor of Science IT | University of Applied Science Lucerne (HSLU)  
   major: [Artificial Intelligence / Machine Learning](https://www.hslu.ch/en/lucerne-school-of-information-technology/degree-programs/bachelor/artificial-intelligence-and-machine-learning/) (_projected Spring 2026_)
-- Master of Arts MUSIC | University of Applied Arts Berne (HKB)
+
+- Master of Arts MUSIC | University of Applied Arts Berne (HKB)  
   major: [composition & theory](https://www.hkb.bfh.ch/en/studies/master/music-composition/) (_Autumn 2015_)
-- Bachelor of Arts MUSIC | University of Applied Science Lucerne (HSLU)
-   major: classical piano (_Autumn 2013_)
+
+- Bachelor of Arts MUSIC | University of Applied Science Lucerne (HSLU)  
+  major: classical piano (_Autumn 2013_)
+
 
 ### Projects
 - big impact project 1!
