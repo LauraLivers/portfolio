@@ -1,15 +1,19 @@
 # Student Artificial Intelligence & Machine Learning
 
 ### Technical Skills 
+
 #### Programming: 
+
 - Advanced: Python, Java, C++, NoSQL, R
 - Intermediate: JavaScript, PHP, SQL
   
 #### Software: 
+
 - Advanced: Ableton Live, After Effects, Figma, Quarto, Thunkable, Jupyter, QTCreator, Microsoft Office
 - Intermediate: Metabase, MaxMSP,InDesign, DavinciResolve, ProTools
 
 ### Education
+
 - Bachelor of Science IT | University of Applied Science Lucerne (HSLU)
   major: [Artificial Intelligence / Machine Learning](https://www.hslu.ch/en/lucerne-school-of-information-technology/degree-programs/bachelor/artificial-intelligence-and-machine-learning/) (_projected Spring 2026_)
 - Master of Arts MUSIC | University of Applied Arts Berne (HKB)
@@ -23,6 +27,7 @@
 - big impact project 3!
 
 ### Work Experience (Selection)
+
 **Educator (_2010 - Present_)**
 - Assistant at [Robotics Workshop](https://www.hslu.ch/de-ch/informatik/ueber-uns/mint-foerderung/nationaler-zukunftstag/), HSLU: introducing young enthusiasts to robotics by guiding them through an obstacle course with a Pepper robot, with the goal of demystifying computer-related concepts.
 - Piano Teacher at Swiss public music schools:  guiding students of all ages in learning to play the piano, helping them understand the complex structures of music, and fostering their independence in their own artistic practice.
