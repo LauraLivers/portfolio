@@ -2,11 +2,11 @@
 
 ### Technical Skills 
 
-  **Programming:** 
+ **Programming:** 
 - Advanced    : Python, Java, C++, NoSQL, R
 - Intermediate: JavaScript, PHP, SQL
   
-  **Software:**
+ **Software:**
 - Advanced    : Ableton Live, After Effects, Figma, Quarto, Thunkable, Jupyter, QTCreator, Microsoft Office
 - Intermediate: Metabase, MaxMSP, InDesign, DavinciResolve, ProTools
 
